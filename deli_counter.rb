@@ -18,7 +18,8 @@ def line(array) # this was the one I figured out
 end
 
 def take_a_number
-  push.
+  line.push(new_person) # could say: "line << new_person"
+  puts "Welcome, #{new_person}. You are number #{line.length} in line."
     
 end
 
