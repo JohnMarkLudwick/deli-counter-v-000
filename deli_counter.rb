@@ -17,7 +17,10 @@ def line(array) # this was the one I figured out
   end
 end
 
-
+def take_a_number
+  if array.length == 0
+    
+end
 
 
 # katz_deli = []
