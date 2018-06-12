@@ -23,7 +23,7 @@ def take_a_number
     
 end
 
-take_a_number(katz_deli, "Fyvish")
+
 
 
 # katz_deli = []
